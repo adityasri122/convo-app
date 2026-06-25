@@ -312,12 +312,11 @@ The public website at [convoaiservices.com](https://www.convoaiservices.com) is 
 
 ## About the Author
 
-**Aryan Tripathi** — CS Senior at Arizona State University (May 2026), 4+1 MS CS candidate (AI concentration). Building real AI products for real businesses.
+**Aditya Srivastava** — Computer Science Engineer. Building real AI products for real businesses.
 
-- 🔗 [LinkedIn](https://linkedin.com/in/aryan-tripathi-9254a611b)
-- 💻 [GitHub](https://github.com/aryan3002)
-- 📧 atripa38@asu.edu
-- 🌐 Live: [convoaiservices.com](https://www.convoaiservices.com)
+
+- 💻 [GitHub](https://github.com/adityasri122)
+- 📧 adityasrivastav122@gmail.com
 
 ---
 
